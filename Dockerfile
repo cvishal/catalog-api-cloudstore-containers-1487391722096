@@ -1,5 +1,5 @@
 #Use the IBM Node image as a base image
-FROM registry.ng.bluemix.net/ibmnode:latest
+FROM registry.eu-gb.bluemix.net/ibmnode:latest
 
 #Expose the port for your Personal Insights app, and set 
 #it as an environment variable as expected by cf apps
